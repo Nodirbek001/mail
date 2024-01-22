@@ -1,0 +1,4 @@
+django-modeltranslation==0.18.11
+phonenumbers==8.13.28
+django-phonenumber-field==7.3.0
+djangorestframework-simplejwt==5.3.1
